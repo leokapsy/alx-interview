@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+'''LOckboxes'''
+
 def canUnlockAll(boxes):
     # Create a set of all box numbers
     all_boxes = set(range(len(boxes)))
