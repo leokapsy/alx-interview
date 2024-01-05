@@ -1,5 +1,5 @@
 PASCAL TRAINGLE
-@erc_ric1
+@leokapsy
 
 [![Pascal Triangle](https://images.fineartamerica.com/images-medium-large-5/1-pascals-triangle-science-photo-library.jpg)
 
