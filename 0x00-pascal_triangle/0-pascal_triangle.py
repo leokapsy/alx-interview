@@ -23,3 +23,4 @@ def pascal_triangle(n):
         l.append(temp)
 
     return l
+    
